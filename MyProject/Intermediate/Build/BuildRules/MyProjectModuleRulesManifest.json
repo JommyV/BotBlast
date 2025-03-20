@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\BotBlast\\MyProject\\Source\\MyProject\\MyProject.Build.cs",
+		"D:\\Unreal Projects\\BotBlast\\MyProject\\Source\\MyProject.Target.cs",
+		"D:\\Unreal Projects\\BotBlast\\MyProject\\Source\\MyProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.2"
+}
